@@ -2,7 +2,7 @@
 
 @license Apache-2.0
 
-Copyright (c) 2021 The Stdlib Authors.
+Copyright (c) 2022 The Stdlib Authors.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -22,7 +22,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Evaluate the [cotangent][cotangent] of a number.
+> Evaluate the [cotangent][trigonometric-functions] of a number.
 
 <section class="intro">
 
@@ -54,15 +54,10 @@ var cot = require( '@stdlib/math-base-special-cot' );
 
 #### cot( x )
 
-Evaluates the [cotangent][cotangent] of a `number` (in radians).
+Evaluates the [cotangent][trigonometric-functions] of `x` (in radians).
 
 ```javascript
-var cot = require( '@stdlib/math-base-special-cot' );
-
-
-var v;
-
-v = cot( 0.0 );
+var v = cot( 0.0 );
 // returns Infinity
 
 v = cot( 3.141592653589793/2.0 );
@@ -108,14 +103,6 @@ for ( i = 0; i < x.length; i++ ) {
 <!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
 
 <section class="related">
-
-* * *
-
-## See Also
-
--   <span class="package-name">[`@stdlib/math/base/special/tan`][@stdlib/math/base/special/tan]</span><span class="delimiter">: </span><span class="description">compute the tangent of a number.</span>
--   <span class="package-name">[`@stdlib/math/base/special/cos`][@stdlib/math/base/special/cos]</span><span class="delimiter">: </span><span class="description">compute the cosine of a number.</span>
--   <span class="package-name">[`@stdlib/math/base/special/sin`][@stdlib/math/base/special/sin]</span><span class="delimiter">: </span><span class="description">compute the sine of a number.</span>
 
 </section>
 
@@ -189,17 +176,7 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-cot/main/LICENSE
 
-[cotangent]: http://mathworld.wolfram.com/Cotangent.html
-
-<!-- <related-links> -->
-
-[@stdlib/math/base/special/tan]: https://github.com/stdlib-js/math-base-special-tan
-
-[@stdlib/math/base/special/cos]: https://github.com/stdlib-js/math-base-special-cos
-
-[@stdlib/math/base/special/sin]: https://github.com/stdlib-js/math-base-special-sin
-
-<!-- </related-links> -->
+[trigonometric-functions]: https://en.wikipedia.org/wiki/Trigonometric_functions
 
 </section>
 
