@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-cot",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Evaluate the cotangent of a number.",
   "license": "Apache-2.0",
   "author": {
