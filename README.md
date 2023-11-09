@@ -117,6 +117,12 @@ for ( i = 0; i < x.length; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-base/special/tan`][@stdlib/math/base/special/tan]</span><span class="delimiter">: </span><span class="description">evaluate the tangent of a number.</span>
+
 </section>
 
 <!-- /.related -->
@@ -191,6 +197,12 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-cot/main/LICENSE
 
 [trigonometric-functions]: https://en.wikipedia.org/wiki/Trigonometric_functions
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/special/tan]: https://github.com/stdlib-js/math-base-special-tan
+
+<!-- </related-links> -->
 
 </section>
 
