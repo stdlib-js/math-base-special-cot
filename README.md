@@ -48,6 +48,11 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
+cot = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cot@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-cot/tags). For example,
+
+```javascript
 cot = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cot@v0.2.0-umd/browser.js' )
 ```
 
@@ -60,7 +65,7 @@ var cot = require( 'path/to/vendor/umd/math-base-special-cot/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cot@v0.2.0-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cot@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -110,7 +115,7 @@ v = cot( NaN );
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-pi@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cot@v0.2.0-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cot@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
