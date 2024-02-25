@@ -46,7 +46,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cot from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cot@deno/mod.js';
+import cot from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cot@v0.2.1-deno/mod.js';
 ```
 
 #### cot( x )
@@ -83,7 +83,7 @@ v = cot( NaN );
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
 import PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-pi@deno/mod.js';
-import cot from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cot@deno/mod.js';
+import cot from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cot@v0.2.1-deno/mod.js';
 
 var x = linspace( -PI/2.0, PI/2.0, 100 );
 
