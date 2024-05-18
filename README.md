@@ -123,6 +123,7 @@ for ( i = 0; i < x.length; i++ ) {
 
 ## See Also
 
+-   <span class="package-name">[`@stdlib/math-base/special/csc`][@stdlib/math/base/special/csc]</span><span class="delimiter">: </span><span class="description">compute the cosecant of a number.</span>
 -   <span class="package-name">[`@stdlib/math-base/special/tan`][@stdlib/math/base/special/tan]</span><span class="delimiter">: </span><span class="description">evaluate the tangent of a number.</span>
 
 </section>
@@ -204,6 +205,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [trigonometric-functions]: https://en.wikipedia.org/wiki/Trigonometric_functions
 
 <!-- <related-links> -->
+
+[@stdlib/math/base/special/csc]: https://github.com/stdlib-js/math-base-special-csc
 
 [@stdlib/math/base/special/tan]: https://github.com/stdlib-js/math-base-special-tan
 
