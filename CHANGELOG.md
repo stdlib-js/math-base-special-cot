@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-15)
+## Unreleased (2024-06-16)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`11c882d`](https://github.com/stdlib-js/stdlib/commit/11c882dcc261abe6a898a3061b45af7f0d4a41cd) - **chore:** update package meta data [(##2379)](#2379) _(by stdlib-bot, Athan Reines)_
 -   [`8304a04`](https://github.com/stdlib-js/stdlib/commit/8304a041c10450a797c64c2fffafc6b0e4bd1a04) - **feat:** add C implementation for `math/base/special/cot` _(by Gunj Joshi, Philipp Burckhardt)_
 -   [`ec98887`](https://github.com/stdlib-js/stdlib/commit/ec9888724c28aa7218d88ff62b91b71c0089c559) - **docs:** update related packages sections [(##2241)](#2241) _(by stdlib-bot)_
 -   [`9ed7d0e`](https://github.com/stdlib-js/stdlib/commit/9ed7d0e7d57edb5ad0dfb65c944bed87d475cbf3) - **chore:** add missing trailing newlines _(by Philipp Burckhardt)_
@@ -36,8 +37,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Gunj Joshi
 -   Philipp Burckhardt
 
