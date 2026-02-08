@@ -46,7 +46,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cot from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cot@esm/index.mjs';
+import cot from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cot@v0.3.1-esm/index.mjs';
 ```
 
 #### cot( x )
@@ -89,7 +89,7 @@ v = cot( NaN );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
 import PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-pi@esm/index.mjs';
-import cot from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cot@esm/index.mjs';
+import cot from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cot@v0.3.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
