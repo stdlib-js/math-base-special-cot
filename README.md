@@ -39,6 +39,8 @@ limitations under the License.
 
 </section>
 
+<!-- /.intro -->
+
 <section class="installation">
 
 ## Installation
